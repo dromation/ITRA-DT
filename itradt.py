@@ -1,4 +1,5 @@
-# SOCV CAMERA using OPENCV module for Video Capture
+'AUTHOR' == "Janez Jurancic"
+
 from kivymd.app import MDApp
 from kivymd.uix.boxlayout import MDBoxLayout
 from kivymd.uix.floatlayout import MDFloatLayout
